@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_IMAGE = "manav7688/myapp"
-        PROD_IP = "YOUR_PROD_PUBLIC_IP"
+        PROD_IP = "13.201.96.148"
     }
 
     stages {
